@@ -5,6 +5,8 @@ layout: default
 permalink: /faq/
 ---
 
+## Frequently Asked Questions
+
 ### Why is Empire Hacking a membership-based group?
 
 **To cultivate a tight-knit community**. This should be a place where members feel free to discuss private or exclusive research and data, knowing that it will remain within the group. Furthermore, we believe that a membership process increases motivation to make a high-quality contribution.
