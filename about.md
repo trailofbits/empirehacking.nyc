@@ -17,24 +17,23 @@ Empire Hacking has been successful because it is:
 
 ### Speak at a Meetup
 
-Apply to speak at Empire Hacking by [sending us](empirehacking@trailofbits.com) a short abstract. We're particularly interested in software security, cryptography, and new tools, as well as emerging security issues in law, policy, and journalism. All our meetings are off the record by default, and we will withold distribution of video recordings at your request.
+Apply to speak at Empire Hacking by [sending us](empirehacking@trailofbits.com) a short abstract. We're particularly interested in software security, cryptography, and new tools, as well as emerging security issues in law, policy, and journalism.
 
-* Note that talks begin at 6:30 and 7:15pm and go for a maximum of 30 minutes
+* There are two 30-minute speaking slots at 6:30 and 7:15pm
 * Speakers are offered a private dry-run with the engineers at Trail of Bits
 * Speakers receive a video recording of their talk (if recorded at all)
 * Speakers receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you
 
 ### Host a Meetup
 
-We're always looking for new locations to host our meetups. [Contact us](empirehacking@trailofbits.com) if you're interested in hosting one. Hosts can pitch their company at the start of the meetup, are listed on our [sponsors](https://www.meetup.com/Empire-Hacking/sponsors/) page, and receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you.
+[Contact us](empirehacking@trailofbits.com) if you're interested in hosting a meetup. Hosts can pitch their company at the start of the meetup, are listed on our [sponsors](https://www.meetup.com/Empire-Hacking/sponsors/) page, and receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you.
 
 We recommend your space have the following for a successful meetup:
 
-* Availability from 5:30pm to 8:30pm on the day of the meetup
-* Able to comfortably fit around 65 attendees
+* Availability from 5:30 to 8:30pm on the day of the meetup
+* Able to comfortably fit around 65 attendees in a quiet space
 * Access to a projector for presentations
 * Able to serve beer and food
-* Quiet enough that attendees can hear the presentations
 * Close to the subway in Manhattan or Brooklyn
 * Sound system (mics and speakers) not required, but appreciated
 
