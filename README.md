@@ -17,7 +17,7 @@ The next meetup will be on: **[Tuesday, October 11th](https://www.meetup.com/Emp
 
 ### Where
 
-Our location changes each meeting. Check our [Meetup](https://www.meetup.com/Empire-Hacking/events/231863227/) page for the latest available information. Have a great event space? Ask us about [hosting](/about/#host-a-meetup).
+Our location changes each meeting. Check [Meetup](https://www.meetup.com/Empire-Hacking/events/231863227/) for the latest available information. Have a great event space? Ask us about [hosting](/about/#host-a-meetup).
 
 ### When
 
