@@ -17,23 +17,23 @@ Empire Hacking has been successful because it is:
 
 ### Speak at a Meetup
 
-Apply to speak at Empire Hacking by [sending us](mailto:empirehacking@trailofbits.com) a short abstract. We're particularly interested in software security, cryptography, and new tools, as well as emerging security issues in law, policy, and journalism.
+Want to speak at a meetup? [Send us](mailto:empirehacking@trailofbits.com) a short abstract. We're particularly interested in software security, cryptography, and new tools, as well as emerging security issues in law, policy, and journalism.
 
-* There are two 30-minute speaking slots at 6:30 and 7:15pm
+* Each meetup has two 30-minute speaking slots: 6:30 and 7:15pm
 * Speakers are offered a private dry-run with the engineers at Trail of Bits
-* Speakers receive a video recording of their talk (if recorded at all)
-* Speakers receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you
+* Speakers receive a video recording of their talk (if you’d like it to be recorded)
+* Speakers receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of the Empire Hacking logo as a thank you
 
 ### Host a Meetup
 
-[Contact us](mailto:empirehacking@trailofbits.com) if you're interested in hosting a meetup. Hosts can pitch their company at the start of the meetup, are listed on our [sponsors](https://www.meetup.com/Empire-Hacking/sponsors/) page, and receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you.
+Hosts can pitch their company at the start of the meetup, are listed on our [sponsors](https://www.meetup.com/Empire-Hacking/sponsors/) page, and receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you. [Contact us](mailto:empirehacking@trailofbits.com) if you're interested in hosting a meetup.
 
-We recommend your space have the following for a successful meetup:
+Ideal hosts have:
 
 * Availability from 5:30 to 8:30pm on the day of the meetup
-* Able to comfortably fit around 65 attendees in a quiet space
-* Access to a projector for presentations
-* Able to serve drinks and food
+* Ability to comfortably fit around 65 attendees in a quiet space
+* Access to a projector and screen
+* Ability to serve drinks and food
 * Close to the subway in Manhattan or Brooklyn
 * Sound system (mics and speakers) not required, but appreciated
 
