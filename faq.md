@@ -23,4 +23,4 @@ We welcome everyone to apply to Empire Hacking, even journalists. But we don’t
 
 ### How can I attend a meetup?
 
-Please apply on our [Meetup](https://www.meetup.com/Empire-Hacking/) page. Feel free to [reach out](empirehacking@trailofbits.com) if you have any trouble.
+Please apply on our [Meetup](https://www.meetup.com/Empire-Hacking/) page. Feel free to [reach out](mailto:empirehacking@trailofbits.com) if you have any trouble.
