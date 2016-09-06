@@ -7,7 +7,7 @@ permalink: /archive/
 
 ## Speak at a Meetup
 
-You did some great stuff with security? You want to show it to the community? You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
+You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
 ## August 2016
 
