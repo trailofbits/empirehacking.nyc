@@ -17,7 +17,7 @@ Empire Hacking has been successful because it is:
 
 ### Speak at a Meetup
 
-Apply to speak at Empire Hacking by sending us a short abstract by [email](mailto:dan@trailofbits.com) or [Slack](https://empireslacking.herokuapp.com). We're particularly interested in software security, cryptography, and new tools, as well as emerging security issues in law, policy, and journalism. All our meetings are off the record by default, and we will withold distribution of video recordings at your request.
+Apply to speak at Empire Hacking by [sending us](empirehacking@trailofbits.com) a short abstract. We're particularly interested in software security, cryptography, and new tools, as well as emerging security issues in law, policy, and journalism. All our meetings are off the record by default, and we will withold distribution of video recordings at your request.
 
 * Note that talks begin at 6:30 and 7:15pm and go for a maximum of 30 minutes
 * Speakers are offered a private dry-run with the engineers at Trail of Bits
@@ -26,7 +26,7 @@ Apply to speak at Empire Hacking by sending us a short abstract by [email](mailt
 
 ### Host a Meetup
 
-We're always looking for new locations to host our meetups. Contact us by [email](mailto:dan@trailofbits.com) or [Slack](https://empireslacking.herokuapp.com) if you're interested in hosting one. Hosts can pitch their company at the start of the meetup, are listed on our [sponsors](https://www.meetup.com/Empire-Hacking/sponsors/) page, and receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you.
+We're always looking for new locations to host our meetups. [Contact us](empirehacking@trailofbits.com) if you're interested in hosting one. Hosts can pitch their company at the start of the meetup, are listed on our [sponsors](https://www.meetup.com/Empire-Hacking/sponsors/) page, and receive a [framed print](https://www.instagram.com/p/BIaUEJ5Alij/) of our logo as a thank you.
 
 We recommend your space have the following for a successful meetup:
 
