@@ -5,6 +5,10 @@ layout: default
 permalink: /archive/
 ---
 
+## Speak at a Meetup
+
+You did some great stuff with security? You want to show it to the community? You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
+
 ## August 2016
 
 ### ProtoFuzz: A Google Protocol Buffers Message Generator
@@ -22,10 +26,10 @@ Dan Guido, CEO of Trail of Bits, presented [Algo VPN](https://github.com/trailof
 ## June 2016
 
 ### Doorman: An OSQuery Fleet Manager
-OSQuery turns operating system information into a format that can be queried using standard SQL-based statements. But once you’ve got that data, how do you search it? Until now, you’d have to engineer your own front-end management console. Enter Doorman. This simple web interface allows you to manage your entire fleet of OSQuery machines. In this Empire Hacking talk, Marcin Wielgoszewski, a security engineer, demonstrated how Doorman works, and answered questions about its deployment and use.
+OSQuery turns operating system information into a format that can be queried using standard SQL-based statements. But once you’ve got that data, how do you search it? Until now, you’d have to engineer your own front-end management console. Enter [Doorman](https://github.com/mwielgoszewski/doorman). This simple web interface allows you to manage your entire fleet of OSQuery machines. In this Empire Hacking talk, Marcin Wielgoszewski, a security engineer, demonstrated how Doorman works, and answered questions about its deployment and use.
 
 ### Tidas: Passwordless Auth with the Secure Enclave
-Nick Esposito, a Senior Software Engineer at Trail of Bits, discussed the design of Tidas, a solution for password-free authentication for iOS software developers. Tidas takes advantage of our unique capability to generate and store ECC keys inside the Secure Enclave.
+Nick Esposito, a Senior Software Engineer at Trail of Bits, discussed the design of [Tidas](https://blog.trailofbits.com/2016/06/28/start-using-the-secure-enclave-crypto-api/), a solution for password-free authentication for iOS software developers. Tidas takes advantage of our unique capability to generate and store ECC keys inside the Secure Enclave.
 
 ### Beyond Corp: Lessons learned from 5 years of endpoint attestation
 An increasingly mobile workforce and the ubiquity of attacks on client platforms limit the effectiveness of the traditional corporate network perimeter-security model. Beyond Corp is a broad effort to re-architect the delivery of Google corporate computing services, removing privileges granted solely on the basis of network address. The underlying architecture relies on a model of machine identity, authentication, and state-aware authorization to provide differential to services. August Huber, a data defender at Google, discussed the background of the work, general approach, challenges encountered, and future directions.
@@ -50,7 +54,7 @@ Ben Agre, a computer security consultant, distinguished successful crypto challe
 Travis Goodspeed, a neighbor, explained how the handheld digital radio used for the Digital Mobile Radio (DMR) protocol was jailbroken to allow for patching and firmware extraction, as well as the tricks used to patch the firmware for new features, such as promiscuous mode and a secondary application.
 
 ### The Mobile Application Security Toolkit (MAST)
-Sophia D'Antoine addressed the design of the Mobile Application Security Toolkit (MAST) which ties together jailbreak detection, anti-debugging, and anti-reversing in LLVM to address these risks.
+Sophia D'Antoine addressed the design of the Mobile Application Security Toolkit (MAST) which ties together jailbreak detection, anti-debugging, and anti-reversing in LLVM for protection of iOS applications.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">not much worst than being in new york but not being able to attend <a href="https://twitter.com/EmpireHacking">@EmpireHacking</a> . will have to catch the next one! <a href="https://twitter.com/hashtag/infosec?src=hash">#infosec</a> <a href="https://twitter.com/nysecsec">@nysecsec</a></p>&mdash; geminiimatt/&#39;mateo&#39; (@geminiimatt) <a href="https://twitter.com/geminiimatt/status/697209141039910913">February 10, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -72,7 +76,7 @@ Richard Lethin, President of Reservoir Labs, discussed data structures and algor
 Peter Goodman, our very own dynamic binary translator, presented the design of [PointsTo](https://blog.trailofbits.com/2016/03/09/the-problem-with-dynamic-program-analysis/), an LLVM-based static analysis system that automatically finds use-after-free vulnerabilities in large codebases.
 
 ### Protecting Virtual Function Calls in COTS C++ Binaries
-Aravind Prakash, an assistant professor in the Dept. of Computer Science at Binghamton University, showed how vfGuard protects virtual function calls in C++ from control subversion attacks.
+Aravind Prakash, an assistant professor in the Dept. of Computer Science at Binghamton University, showed how [vfGuard](https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=GqFjHVAAAAAJ&sortby=pubdate&citation_for_view=GqFjHVAAAAAJ:IjCSPb-OGe4C) protects virtual function calls in C++ from control subversion attacks.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Definitely enjoyed <a href="https://twitter.com/EmpireHacking">@EmpireHacking</a> prog analysis talks tonight, thanks <a href="https://twitter.com/dguido">@dguido</a> for making this happen! I&#39;ll be there next time with more Q&#39;s!</p>&mdash; Julien Vanegue (@jvanegue) <a href="https://twitter.com/jvanegue/status/654109659155050496">October 14, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -97,7 +101,7 @@ Jay Little, another of our security engineers, gave a code review of Hacking Tea
 Chris Rohlf from Yahoo discussed the effects of scale on vulnerability research, fuzzing and real attack campaigns.
 
 ### Automatically proving program termination (and more!)
-Dr. Byron Cook, Professor of Computer Science at University College London, shared research advances that have led to practical tools for automatically proving program termination and related properties.
+Dr. Byron Cook, Professor of Computer Science at University College London, shared research advances that have led to [practical tools](http://mmjb.github.io/T2/) for automatically proving program termination and related properties.
 
 ### Cellular Baseband Exploitation
 Nick DePetrillo, one of our principal security engineers, explored the challenges of reliable, large-scale cellular baseband exploitation.
