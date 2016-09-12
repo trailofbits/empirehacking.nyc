@@ -14,7 +14,7 @@ You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 ### ProtoFuzz: A Google Protocol Buffers Message Generator
 Yan Ivnitskiy, a Principal Security Engineer at Trail of Bits, presented [ProtoFuzz](https://github.com/trailofbits/protofuzz), a generic fuzzer for Google’s Protocol Buffers format. Instead of defining a new fuzzer generator for custom binary formats, protofuzz automatically creates a fuzzer based on the same format definition that programs use. ProtoFuzz is implemented as a stand-alone Python3 program.
 
-### Dash: A Web-based tool for writing Shellcode
+### Dash: A Web-based tool for Writing Shellcode
 Pete Markowsky, a security researcher from NYC, presented [Dash](https://github.com/pmarkowsky/dash), a simple Python Flask-based web application for reading and writing assembly. Think of it as a REPL for various assembly languages. Dash explores how one might design an IDE for writing shellcode.
 
 ### Algo: A 1-click IPSEC VPN in the Cloud 
