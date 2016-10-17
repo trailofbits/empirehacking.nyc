@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## October 2016
+
+### Differential Fuzzing with LLVM's LibFuzzer 
+We extended libFuzzer to support differential fuzzing of applications of similar functionality (e.g., SSL libraries) and developed a set of new metrics to guide input generation, particularly retrofitted towards differential testing. We'll be doing a demo of the engine and present some of the bugs we found. Presented by Theofilos Petsios and Adrian Tang, PhD candidates at Columbia University.
+
+### Firing Rounds at the Analysis Shooting Gallery 
+DARPA spent hundreds of thousands of my tax dollars creating small C and C++ programs that include exploitable software flaws. We took those programs, ported them to Linux and OS X, and used them as a shooting gallery for static and dynamic analysis tools. Let’s see where each tool excels and where each tool fails. Presented by Ryan Stortz, a principal security researcher at Trail of Bits.
+
 ## August 2016
 
 ### ProtoFuzz: A Google Protocol Buffers Message Generator
