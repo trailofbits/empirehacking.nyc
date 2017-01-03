@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## December 2016
+
+### Be a Binary Rockstar: An Intro to Program Analysis with Binary Ninja 
+Many static analyses, such as LLVM passes, depend on the ability to compile source code and cannot operate on binaries. Binary Ninja offers a new Intermediate Language (IL) that makes running such analyses on binaries much easier. I will describe how to use the Binary Ninja IL to automatically discover memory corruption vulnerabilities in binary code, and introduce the concepts of variable analysis, abstract interpretation, and integer range analysis in the process. Presented by Sophia D'Antoine of Trail of Bits.
+
+### Shuffler: Fast and Deployable Continuous Code Re-Randomization 
+Just-In-Time ROP (JIT-ROP) techniques, where an attacker uses a memory disclosure vulnerability to discover code gadgets at runtime are particularly pernicious. We designed a code-reuse defense, called Shuffler, which continuously re-randomizes code locations on the order of milliseconds, introducing a real-time deadline on the attacker. Shuffler focuses on being fast, self-hosting, and nonintrusive to the end user. Evaluation shows that Shuffler defends against all known forms of code reuse, including ROP, direct JIT-ROP, indirect JIT-ROP, and Blind ROP. Presentd by David Williams-King, a PhD student at Columbia University.
+
 ## October 2016
 
 ### Differential Fuzzing with LLVM's LibFuzzer 
