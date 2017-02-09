@@ -9,13 +9,24 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## February 2017
+
+### Manticore Demo 
+Mark Mossberg of Trail of Bits gave a short demo of Manticore, a ruthlessly effective hybrid symbolic-concrete (“concolic”) execution system that scales to large programs with numerous dependencies, complex interaction, and manual setup. Manticore is being prepared for a public release in March. 
+
+### Bootstrapping a slightly more secure laptop 
+Heads is an open source custom firmware and OS configuration for laptops and servers that aims to provide slightly better physical security and protection for data on the system. Unlike Tails, which aims to be a stateless OS that leaves no trace on the computer of its presence, Heads is intended to store data and state. It targets specific models of commodity hardware and takes advantage of lessons learned from vulnerability research. This talk provides an overview of Heads, a demo of installing it on a Thinkpad, and a tour of the attacks that it protects against. Presented by Trammell Hudson. 
+
+### When Bad Things Happen to Good Computers 
+We discuss the current state-of-the-art in the field of electromagnetic fault injection (EMFI) and our on-going research into the matter. We present motivational examples show-casing the potential capabilities of EMFI techniques against secure embedded hardware. We also discuss the draw-backs of traditional EMFI techniques and hard physical limitations of such techniques in its current incarnation. Lastly, we informally unveil our soon-to-be-open-sourced BadFET, a high-powered nano-second zero-recovery time multiple firing EMP system, and yes, it will probably kill you if you touched it. Presented by Ang Cui and Rick Housley of Red Balloon Security.
+
 ## December 2016
 
 ### Be a Binary Rockstar: An Intro to Program Analysis with Binary Ninja 
 Many static analyses, such as LLVM passes, depend on the ability to compile source code and cannot operate on binaries. Binary Ninja offers a new Intermediate Language (IL) that makes running such analyses on binaries much easier. I will describe how to use the Binary Ninja IL to automatically discover memory corruption vulnerabilities in binary code, and introduce the concepts of variable analysis, abstract interpretation, and integer range analysis in the process. Presented by Sophia D'Antoine of Trail of Bits.
 
 ### Shuffler: Fast and Deployable Continuous Code Re-Randomization 
-Just-In-Time ROP (JIT-ROP) techniques, where an attacker uses a memory disclosure vulnerability to discover code gadgets at runtime are particularly pernicious. We designed a code-reuse defense, called Shuffler, which continuously re-randomizes code locations on the order of milliseconds, introducing a real-time deadline on the attacker. Shuffler focuses on being fast, self-hosting, and nonintrusive to the end user. Evaluation shows that Shuffler defends against all known forms of code reuse, including ROP, direct JIT-ROP, indirect JIT-ROP, and Blind ROP. Presentd by David Williams-King, a PhD student at Columbia University.
+Just-In-Time ROP (JIT-ROP) techniques, where an attacker uses a memory disclosure vulnerability to discover code gadgets at runtime are particularly pernicious. We designed a code-reuse defense, called Shuffler, which continuously re-randomizes code locations on the order of milliseconds, introducing a real-time deadline on the attacker. Shuffler focuses on being fast, self-hosting, and nonintrusive to the end user. Evaluation shows that Shuffler defends against all known forms of code reuse, including ROP, direct JIT-ROP, indirect JIT-ROP, and Blind ROP. Presented by David Williams-King, a PhD student at Columbia University.
 
 ## October 2016
 
