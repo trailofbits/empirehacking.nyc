@@ -9,6 +9,17 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## April 2017
+
+### Intro to Rust Lightning Talk 
+Efe Alatan, a senior at NYU Tandon, gave a brief overview Rust.
+
+### Dissecting a Fingerprint Sensor
+Daniel Lawson hacked a fingerprint sensor 10 ways from Sunday and shared his findings with us. All bugs identified were reported the vendor and are in the process of being fixed. Dan is a security consultant at MWR.
+
+### Transport Layer Security 1.3 
+The protocol that protects most of the Internet secure connections is getting the biggest ever revamp, and is losing a round-trip. We will explore differences between TLS 1.3 and previous versions in detail, focusing on the security improvements of the new protocol as well as some of the challenges we face around securely implementing new features such as 0-RTT resumption. At Cloudflare we will be the first to deploy TLS 1.3 on a wide scale, and we’ll be able to discuss the insights we gained while implementing and deploying this protocol. Nick Sullivan is the head of cryptography at Cloudflare.
+
 ## February 2017
 
 ### Manticore Demo 
