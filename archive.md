@@ -9,6 +9,17 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## June 2017
+
+### Lessons in PL Theory: Modern type systems
+JP Smith, a security engineering intern at Trail of Bits, discussed modern type systems and their applications to security. He covered dependent types and their applications enforcing strong invariants at compile time. Then, he reviewed how affine types can be used for better memory safety in languages like Rust.
+
+### True facts about the qmail source code  
+qmail is extraordinary in that it was written in C, implements a complex protocol, and has had no impactful security bugs for over 10 years. Mark has reviewed the qmail source code for a project at Trail of Bits and will share several of the idiosyncrasies and interesting details he has found. Mark Mossberg is a security engineer at Trail of Bits.
+
+### Smart uses for dumb fuzzing 
+MongoDB's homegrown JavaScript fuzzer has proven itself to be the most prolific bug hunter, responsible for finding around 250 bugs over the course of two release cycles. The fuzzer is "dumb" in the sense that it mostly isn't aware of any MongoDB; In this talk, Robert Guo will discuss how we made MongoDB's fuzzer "dumb" and why this seemingly counter-intuitive strategy is successful. Additionally, we'll demonstrate how dumb fuzzing allowed us to conduct a thorough testing of a number of new projects quickly with very little extra work.  Robert Guo is a software engineer on MongoDB's developer productivity team.
+
 ## April 2017
 
 ### Intro to Rust Lightning Talk 
