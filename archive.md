@@ -20,6 +20,9 @@ qmail is extraordinary in that it was written in C, implements a complex protoco
 ### Smart uses for dumb fuzzing 
 MongoDB's homegrown JavaScript fuzzer has proven itself to be the most prolific bug hunter, responsible for finding around 250 bugs over the course of two release cycles. The fuzzer is "dumb" in the sense that it mostly isn't aware of any MongoDB; In this talk, Robert Guo will discuss how we made MongoDB's fuzzer "dumb" and why this seemingly counter-intuitive strategy is successful. Additionally, we'll demonstrate how dumb fuzzing allowed us to conduct a thorough testing of a number of new projects quickly with very little extra work.  Robert Guo is a software engineer on MongoDB's developer productivity team.
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">CS class or <a href="https://twitter.com/EmpireHacking">@EmpireHacking</a> <a href="https://twitter.com/Etsy">@Etsy</a> <a href="https://t.co/4ukGGJFsi5">pic.twitter.com/4ukGGJFsi5</a></p>&mdash; Pete Taylor (@taylopet) <a href="https://twitter.com/taylopet/status/874766775887556608">June 13, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## April 2017
 
 ### Intro to Rust Lightning Talk 
@@ -30,6 +33,9 @@ Daniel Lawson hacked a fingerprint sensor 10 ways from Sunday and shared his fin
 
 ### Transport Layer Security 1.3 
 The protocol that protects most of the Internet secure connections is getting the biggest ever revamp, and is losing a round-trip. We will explore differences between TLS 1.3 and previous versions in detail, focusing on the security improvements of the new protocol as well as some of the challenges we face around securely implementing new features such as 0-RTT resumption. At Cloudflare we will be the first to deploy TLS 1.3 on a wide scale, and we’ll be able to discuss the insights we gained while implementing and deploying this protocol. Nick Sullivan is the head of cryptography at Cloudflare.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Getting ready for tonight <a href="https://twitter.com/Work_Bench">@work_bench</a> <a href="https://t.co/AtCp7vTLjq">pic.twitter.com/AtCp7vTLjq</a></p>&mdash; Empire Hacking (@EmpireHacking) <a href="https://twitter.com/EmpireHacking/status/851917544206348291">April 11, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## February 2017
 
@@ -57,6 +63,9 @@ We extended libFuzzer to support differential fuzzing of applications of similar
 
 ### Firing Rounds at the Analysis Shooting Gallery 
 DARPA spent hundreds of thousands of my tax dollars creating small C and C++ programs that include exploitable software flaws. We took those programs, ported them to Linux and OS X, and used them as a shooting gallery for static and dynamic analysis tools. Let’s see where each tool excels and where each tool fails. Presented by Ryan Stortz, a principal security researcher at Trail of Bits.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lots of new faces at our meeting last week with almost 100 total attendees. Here&#39;s some feedback we received: <a href="https://t.co/jBtv9e3wzA">pic.twitter.com/jBtv9e3wzA</a></p>&mdash; Empire Hacking (@EmpireHacking) <a href="https://twitter.com/EmpireHacking/status/788061374127730688">October 17, 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## August 2016
 
