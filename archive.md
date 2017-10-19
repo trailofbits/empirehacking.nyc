@@ -9,6 +9,27 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## October 2017
+
+### Understanding Windows Defender’s JS Engine 
+Windows Defender’s MsMpEng.dll implements the core of Defender’s functionality in an enormous 10+ MB, 45,000+ function DLL. In this presentation, we’ll look at the ~1,200 functions that make up Defender’s in-house developed JavaScript engine, which is used for analyzing potentially malicious JS. Defender implements a full JS engine, while being significantly simpler than the engines found in modern web browsers, so it is an interesting and relatively tractable target for reverse engineering from binary. Alexei Bulazel is a security researcher at River Loop Security, and a graduate of RPI where he worked on anti-emulation techniques for malware.
+
+### Post-Exploitation on Kubernetes 
+Kubernetes has become the de facto system for container orchestration. It makes scaling and deploying containers much easier, but there's a lot left to consider from the security perspective. This talk focuses on post-exploitation techniques and will cover pivoting, persistence, and data exfiltration as they are done on Kubernetes. Omar is a security engineer at Etsy.
+
+## August 2017
+
+Empire Hacking hosted end-of-summer presentations from a group of interns from around NYC. 
+
+* Kareem El-Faramawi, Trail of Bits
+* JP Smith, Trail of Bits
+* Theofilos Petsios, Trail of Bits
+* Spencer Michaels, NCC Group
+* Joel Margolis, NCC Group
+* Jules Denardou, Datadog
+* Aleksey and Ofer, HYPR
+* Kimberly Hou, MongoDB
+
 ## June 2017
 
 ### Lessons in PL Theory: Modern type systems
