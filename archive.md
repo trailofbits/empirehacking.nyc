@@ -9,6 +9,33 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## February 2018
+
+### Privacy on the blockchain: insights from 3 leading projects
+Projects like Enigma and Keep are developing solutions to keep sensitive data private but useful on the blockchain. Doing so would be a leap forward for dApps and a provide a stronger bridge to enterprise users. What are the key problems and which of these solutions is likely to succeed?
+Ana De Sousa is a consultant and analyst focused on commercial applications of blockchain technology. Previously, she led analytics teams at LinkedIn and AT Kearney. She's delighted to finally put her BA in Economics to use.
+
+### Containers aka crazy user space fun
+Like the movie Plan 9 from outer space, this talk will cover containers from user space. What are they? Where did they come from? How much koolaid is involved in adopting them into your life... Come for the jokes, stay for the interesting technical details.
+Jess Frazelle works at Microsoft on open source, containers, and Linux. She has been a maintainer of Docker, contributor to RunC, Kubernetes and Golang as well as other projects. She loves all things involving Linux namespaces and cgroups and is probably most well known for running desktop applications in containers and her work on making containers secure.
+
+## December 2017
+
+### Past, Present, and Future of Ethereum and its Security
+John Maurelian of Consensys Diligence will discuss his highlights of the latest developments in Ethereum security. Many new projects, papers, and tools were released at Devcon3 that demand attention from those concerned with Ethereum security.
+
+### Building the Quorum Blockchain
+Amber Baldet and Brian Schroeder of the Enterprise Ethereum Alliance will discuss blockchain threat modeling, confidential transactions, and zero-knowledge proofs. All the tech that makes the Quorum permissioned blockchain possible!
+
+### Learn Ethereum security through Capture the Flag
+Sophia D'Antoine of Trail of Bits will discuss recent CTF competitions that have featured Solidity and Ethereum challenges, and the tools required to exploit them.
+
+### Automatic Bug Finding for the Blockchain
+Mark Mossberg of Trail of Bits will discuss practical symbolic execution of EVM bytecode with Manticore. Mark recently completed a smart contract audit where Manticore was used to find subtle numerical issues of high severity.
+
+### Lightning talk: Addressing infosec needs with blockchain technology
+Paul Makowski will discuss PolySwarm, an upcoming cybersecurity-focused Ethereum token, and how it aligns incentives and addresses deficiencies in the threat intelligence industry.
+
 ## October 2017
 
 ### Understanding Windows Defender’s JS Engine 
