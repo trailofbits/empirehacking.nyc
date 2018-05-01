@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## April 2018
+
+### Attacking Browser-Based Ethereum Wallets
+Browser-based Ethereum wallets are currently one of the only ways to interact with dApps in the Ethereum network. While they are innovative in nature, many of these wallets expose their users to a wide attack surface. Further, they provide information to sites you probably don’t want them knowing. In this talk, I go over the attack surface of all these wallet softwares, how they can be exploited, and how the risks can be mitigated. Brandon Arvanaghi is a security engineer at Gemini.
+
+### Blackhat Ethereum
+In the blockchain, there are no secrets. Every transaction is logged and everyone has a copy of all of the code. Nearly all of this code can only be analyzed through reverse engineering. Over the past year, we've seen enterprising hackers use flaws in smart contracts to whisk away millions. This was made possible thanks to Ethereum, the technology that powers cryptocats, and Solidity, a high level language that describes Ethereum's Turing complete smart contracts. This talk will introduce smart contract security, present common vulnerability classes, and demonstrate how to reverse engineer EVM code to identify these vulnerabilities. The talk will also present tools to support vulnerability discovery in EVM code and Solidity. Ryan Stortz and Jay Little are security engineers at Trail of Bits.
+
 ## February 2018
 
 ### Privacy on the blockchain: insights from 3 leading projects
