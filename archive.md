@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## June 2018
+
+### Server-side Spreadsheet Injections
+CSV injection and client-side Excel DDE attacks are well-known in the security community. This talk explores and demonstrates new ways spreadsheet formulas can be used to exploit servers and cloud platforms supported by spreadsheet technology. By injecting formulas into server-side services and without client interaction, we will demonstrate how we have stolen sensitive data, inserted backdoors, and obtained remote code execution during client engagements. Jake Miller is a security consultant at Bishop Fox.
+
+### Three Super Features That Could Transform Osquery
+Not all features are created equal. Most features improve functionality. However, some features expand a tool’s ability so completely that the baseline product becomes something entirely new. We call these features Super Features. In this talk, we’ll review a feature wishlist gathered from interviews with 5 Silicon Valley tech teams who use osquery. From these, we’ll identify the Super Features - features that, if built, would fundamentally change the value proposition of osquery for the better. Then, we’ll discuss how Trail of Bits plans to make these osquery Super Features a reality. Lauren Pearl is the head of strategy and operations at Trail of Bits.
+
 ## April 2018
 
 ### Attacking Browser-Based Ethereum Wallets
