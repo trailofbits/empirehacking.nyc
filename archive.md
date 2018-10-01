@@ -9,6 +9,19 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## August 2018
+
+Empire Hacking hosted end-of-summer presentations from a group of interns from around NYC.
+
+Intern speakers included:
+* James Wang, Trail of Bits
+* Aditi Gupta, Trail of Bits
+* Guillaume Fournier, DataDog
+* Dennis Röllke, NYU
+* Nicholas O'Brien, Facebook
+* Momopranto Amin, Facebook
+* Sohum Sontakke, Etsy
+
 ## June 2018
 
 ### Server-side Spreadsheet Injections
