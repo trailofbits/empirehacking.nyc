@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## October 2018
+
+### An extremely brief overview of post-quantum cryptography
+Currently, one of the most exciting and talked-about topics in cryptography is the move to post-quantum cryptosystems. This talk will cover what constitutes being "post-quantum," the domains of cryptography in which that's relevant, and a few of the current most exciting ideas in the space. JP Smith is a cryptography engineer at Trail of Bits.
+
+### A Software-testing Case Study on Ethereum Smart Contracts
+We’ll review a function called ‘batchTransfer’ in one of the Gemini dollar smart contracts and use it as a case study for software testing in the setting of Ethereum smart contracts. Specifically, we’ll review two versions of this function, the second of which rectifies unintended edge-case behavior in the first. The main focus of this talk will be on the use of two tools, Manticore and Echidna, and how they were used to specify correctness properties about the ‘batchTransfer’ function. We’ll conclude with some remarks on the relative strengths of these tools, as well as their advantages over example-based unit testing. Daniel James is a security engineer at Gemini Trust.
+
 ## August 2018
 
 Empire Hacking hosted end-of-summer presentations from a group of interns from around NYC.
