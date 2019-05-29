@@ -25,7 +25,7 @@ Intern speakers included:
 * James Wang, Trail of Bits
 * Aditi Gupta, Trail of Bits
 * Guillaume Fournier, DataDog
-* Dennis Röllke, NYU
+* Dennis Roellke, NYU
 * Nicholas O'Brien, Facebook
 * Momopranto Amin, Facebook
 * Sohum Sontakke, Etsy
