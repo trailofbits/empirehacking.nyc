@@ -9,6 +9,65 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## June 2019
+
+### Fuck RSA
+RSA no longer sparks joy. It is an intrinsically fragile crypto system containing countless foot-guns which the average software engineer cannot be expected to avoid. Bad parameters are extremely difficult - if not impossible - to check, and its relatively poor performance encourages developers to take risky shortcuts. Even worse, padding oracle attacks remain rampant 20 years after Bleichenbacher's seminal paper. Folks, it's time to accept it - the only way to securely use RSA is to not use it at all. Ben Perez is a Security Engineer at Trail of Bits.
+
+### Clinical Computer Security for Victims of Intimate Partner Violence
+Digital insecurity in the face of targeted, persistent attacks increasingly leaves victims in debilitating or even life-threatening situations. We propose an approach to helping victims, what we call clinical computer security, and explore it in the context of intimate partner violence (IPV). An initial field study with 44 IPV survivors showed how our new procedures and tools help victims discover account compromise, exploitable misconfigurations, and potential spyware. We further motivate the need for clinical approaches to computer security for at-risk communities. Sam Havron is a PHD student at Cornell Tech.
+
+## April 2019
+
+### Detect security bugs with Facebook's Infer
+In this lightning talk we will demonstrate how to find security bugs through advanced linting and data flow analysis using Facebook's open source Infer static analysis tool. We will demonstrate on the osquery project and how you can statically protect against user input flowing to dangerous APIs. The talk will be very practical and focused on examples of bugs you can detect. We will also show real bugs Infer has found in osquery in the past. Infer checks for null pointer exceptions, resource leaks, annotation reachability, missing lock guards, and concurrency race conditions in Android and Java code. Infer checks for null pointer dereferences, memory leaks, coding conventions and unavailable API’s in C/C++ and iOS. Teddy Reed is a member of the Product Security team at Facebook.
+
+### Peer reviewing the CBC Casper family of consensus protocols
+Jude review the CBC Casper family of consensus protocols published by "Ethereum Research." He will describe why the definitions and proofs provided in the paper result in neither theoretically nor practical treatment of Byzantine fault-tolerance and considering liveness without correctness is a fundamentally incorrect approach. He will also discuss whether Casper provides meaningful safety guarantees for blockchains or if the approach is applicable to scaling blockchains at all. Jude Nelson, a Blockstack Engineering Partner, earned his Ph.D. in computer science at Princeton and worked as a core member of PlanetLab, which received the ACM Test of Time Award for enabling planetary scale experimentation and deployment. His research covered wide-area storage systems and CDNs. He has 10+ years of Vim usage.
+
+### How Etsy mitigates account take over (ATO)
+A rash of recent database breaches has flooded the web with billions of plaintext credentials. Password reuse renders these secrets especially valuable to financial fraudsters, who leverage them to access users' various online accounts, and to then abuse the payment instruments - credit cards, money transfer systems such as PayPal, and bank accounts - therein. This type of attack, called account takeover (ATO), has risen sharply in volume and sophistication since 2016. Etsy, an online platform comprised of 2M active sellers and 37M active buyers, is an enticing ATO target thanks to the prevalence of listings with high resale value, and because two-sided marketplaces are generally conducive to money laundering schemes. This talk details how Etsy's Security Engineering team has evolved its ATO detection and remediation systems over the last several years, first addressing mechanisms for defending against automated ATO campaigns, and then describing how we have productionized machine learning to successfully surface subtle, manual instances of ATO. Shayne Barr is a developer on Etsy's Security Engineering team.
+
+## February 2019
+
+### Who's afraid of fault injection in kernelspace?
+We'll cover the basics of fault injection, along with improving the state of fault injection testing by moving away from traditional injection techniques, like LD_PRELOAD and dynamic instrumentation, and into kernelspace syscall interception. We will demo a new tool, KRF, that uses kernelspace fault injection and crash real-world applications with it. William Woodruff is a security engineer at Trail of Bits.
+
+### Low level debugging with Pwndbg
+We will discuss Pwndbg, a plugin for GDB that is useful for debugging assembly code, reverse engineering, and exploit development. Dominik Czarnota is a security engineer at Trail of Bits.
+
+## December 2018 (Ethereum Edition)
+
+### Anatomy of an Unsafe Smart Contract Programming Language
+This talk dissects Solidity: the most popular smart contract programming language. Various examples of its unsafe behavior are discussed, demonstrating that even an experienced, competent programmer can easily shoot themselves in the foot. These serve as a cautionary tale of how not to create a programming language and toolchain, particularly one that shall be trusted with hundreds of millions of dollars in cryptocurrency. The talk is concluded with a retrospective of how some of these issues could have been avoided, and what we can do to make smart contract development more secure moving forward. Evan Sultanik is a security engineer from Trail of Bits.
+
+### Asset Insecurities: Evaluating Digital Asset Security Fundamentals
+Spend a couple minutes learning about digital asset security ecosystem problems as faced at Coinbase scale. This will be a jaunt through insecure supply chain, the difference between a protocol white paper and the actual implementation, and a couple other things that’ll bite you if you’re not paying attention. Shamiq herds cryptokitties, security engineers and developers at Coinbase as Head of Application Security. In his spare time, he loves to eat cheese and chocolate.
+
+### Designing the Gemini dollar: a regulated, upgradeable, transparent stablecoin
+A regulated stablecoin requires important design decisions. How can you make your contracts upgradeable when many rely on them? How can you manage keys that protect the underlying assets? And how can you do this all completely transparently? In this talk, we explain the design decisions that went into the Gemini dollar, and compare and contrast with other possible implementations. Brandon Arvanaghi is a security engineer at Gemini Trust.
+
+### Property testing with Echidna and Manticore for secure smart contracts
+Property-based testing is an incredibly simple and powerful tool for bug discovery, but despite its efficacy, it's almost unheard of in the smart contract development community. This talk will introduce the concept of property-based testing, discuss strategies for picking good properties and testing them thoroughly, then go into how to apply these ideas to smart contracts specifically. We'll discuss the use of both Manticore and Echidna for testing, and look at real bugs these tools can find in production code. JP Smith is a security engineer from Trail of Bits.
+
+### Contract upgrade risks and remediations
+A popular trend in smart contract design is to promote the development of upgradable contracts. Existing techniques to upgrade contracts have flaws, increase the complexity of the contract significantly, and ultimately introduce bugs. We will detail our analysis of existing smart contract upgrade strategies, describe the weaknesses we have observed in practice, and provide recommendations for contracts that require upgrades. Josselin Feist is a security engineer at Trail of Bits.
+
+### Failures in On-Chain Privacy
+Many, including Satoshi, believed cryptocurrencies provided privacy for payments. In reality, cryptocurrency is Twitter for your bank account. Worse, the current set of decoy transaction–based approaches commonly believed to provide privacy—including coinjoin and cryptonote/Monero—provide fundamentally flawed privacy protections. Where did we go wrong? This talk covers how to critically evaluate the privacy provided by any proposed protocol for payment privacy. Through a series of thought experiments, it outlines three plausible attacks on existing decoy-based schemes. These issues show the unintuitive nature of privacy protections, as well as the need to both evaluate protocols in the context of real world threats, and use approaches with formal and peer reviewed privacy guarantees such as Zcash. Ian Miers is a post-doctoral associate at Cornell Tech.
+
+### Secure Micropayment Protocols
+Sending cryptocurrency micropayment transactions that must be confirmed on a blockchain is impractical today due to transaction fees that can exceed the value being sent. Instead, we can use micropayment protocols that only rely on the blockchain for settlement and disputes to minimize on-chain fees. In this talk, we will describe and compare different approaches to constructing secure micropayment protocols on top of Ethereum including probabilistic micropayments and payment channels. Furthermore, we will highlight the difficulties and considerations in implementing these types of protocols given the increased reliance on correct and timely client behavior to prevent the loss of funds. Yondon Fu is a software engineer and researcher at Livepeer.
+
+### How To Build an Enterprise-Grade Mainnet Ethereum Client
+The byzantine environment of the Ethereum mainnet is fraught with challenges for aspiring hackers seeking to publish a compatible client. This talk highlights the trials and tribulations of implementing a client capable of handily dispatching the adversarial events and actors of the sprawling P2P ecosystem that comprises the Ethereum blockchain’s world-wide compute network. The uniquely modular nature of the Pantheon codebase and it’s suitability for enterprise application will be treated in detail. The session will conclude with a brief sketch of the road ahead for Pantheon with an eye towards the Ethereum Enterprise Alliance and the forthcoming updates that comprise the broad strokes of the Ethereum 2.0 specification. S. Matthew English is a PegaSys protocol engineer and Pantheon core dev.
+
+### Simple is hard: Making your awesome security thing usable
+If the security assumptions of blockchain systems fail even a little, they provide very little value. They also have a high barrier to entry and are hard to use. But wait, people already don’t use security tools — how isn’t this the worst of all possible worlds? We’ll talk about some precedents from infosec history and how we might be able to avoid “Your elections are fine as long as you use The New PGP on The Blockchain” in favor of helping people build cool things that really do solve longstanding problems in novel ways. Patrick Nielsen and Amber Baldet are founders of Clovyr.
+
+### Like it or not, blockchain voting is here to stay
+I’m going to talk about how blockchain voting apps received serious pushback from academics who study voting security, but that West Virginia used the Voatz app for some counties during primaries, used it in almost half the state in the midterm election, and is pleased with how it went. Voatz is already in talks with other states and is hoping for up to 20 states to use it by 2020. And several other countries are testing different blockchain voting apps. Kevin Collier is the cybersecurity correspondent at BuzzFeed News, where he covers cyberwar, hackers, election security, disinformation efforts, tech companies, and hacking laws. Prior to BuzzFeed, Kevin covered cybersecurity at Vocativ and the Daily Dot, and has written for Politico, Gizmodo, The Daily Beast, and NY Mag. A native of West Virginia, he lives in Brooklyn.
+
 ## October 2018
 
 ### An extremely brief overview of post-quantum cryptography
