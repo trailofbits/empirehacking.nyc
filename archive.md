@@ -9,7 +9,7 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
-# August 2019
+## August 2019
 
 Empire Hacking hosted end-of-summer presentations from a group of interns:
 
