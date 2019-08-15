@@ -9,6 +9,21 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+# August 2019
+
+Empire Hacking hosted end-of-summer presentations from a group of interns:
+
+Intern speakers included:
+* George Litvinov (Confiant) on malvertising
+* Michael Rosenberg (Trail of Bits) on the MLS end-to-end encrypted group chat protocol
+* Aditi Gupta (Trail of Bits) on rewriting binary cryptographic libraries
+* Henry Wildermuth (Trail of Bits) on automating analysis from KRF
+* Anne Ouyang (Trail of Bits) on a TLA+ specification for CBC Casper
+* Alan Cao (Trail of Bits) on ensemble fuzzing with DeepState
+* Sai Vegasena (Trail of Bits) on symbolically executing binaries with klee-native
+* Jim Miller (Trail of Bits) on multi-party computation on machine learning
+* Roy Ragsdale (Trail of Bits/Army Cyber) on measuring fuzzer performance
+
 ## June 2019
 
 ### Fuck RSA
