@@ -35,6 +35,8 @@ Digital insecurity in the face of targeted, persistent attacks increasingly leav
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/SamHavron?ref_src=twsrc%5Etfw">@SamHavron</a> for your talk at <a href="https://twitter.com/EmpireHacking?ref_src=twsrc%5Etfw">@EmpireHacking</a> and for helping Victims of Intimate Partner Violence with technical solutions <a href="https://t.co/N3Q3dKf9ON">pic.twitter.com/N3Q3dKf9ON</a></p>&mdash; Dennis Roellke (@dns43) <a href="https://twitter.com/dns43/status/1138637896020373505?ref_src=twsrc%5Etfw">June 12, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YsFZ3OxwWN0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## April 2019
 
 ### Detect security bugs with Facebook's Infer
