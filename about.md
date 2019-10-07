@@ -31,7 +31,7 @@ Hosts can pitch their company at the start of the meetup, are listed on our [spo
 Ideal hosts have:
 
 * Availability from 5:30 to 8:30pm on the day of the meetup
-* Ability to comfortably fit at least 90 attendees in a quiet space
+* Ability to comfortably fit at least 100 attendees in a quiet space
 * Access to a projector and screen
 * Ability to serve drinks and food
 * Close to the subway in Manhattan or Brooklyn
