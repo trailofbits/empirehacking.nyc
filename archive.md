@@ -63,6 +63,8 @@ We will discuss Pwndbg, a plugin for GDB that is useful for debugging assembly c
 
 ## December 2018 (Ethereum Edition)
 
+See our full, post-event writeup including videos on the [Trail of Bits blog](https://blog.trailofbits.com/2019/01/18/empire-hacking-ethereum-edition-2/).
+
 ### Anatomy of an Unsafe Smart Contract Programming Language
 This talk dissects Solidity: the most popular smart contract programming language. Various examples of its unsafe behavior are discussed, demonstrating that even an experienced, competent programmer can easily shoot themselves in the foot. These serve as a cautionary tale of how not to create a programming language and toolchain, particularly one that shall be trusted with hundreds of millions of dollars in cryptocurrency. The talk is concluded with a retrospective of how some of these issues could have been avoided, and what we can do to make smart contract development more secure moving forward. Evan Sultanik is a security engineer from Trail of Bits.
 
