@@ -29,6 +29,8 @@ Intern speakers included:
 ### Fuck RSA
 RSA no longer sparks joy. It is an intrinsically fragile crypto system containing countless foot-guns which the average software engineer cannot be expected to avoid. Bad parameters are extremely difficult - if not impossible - to check, and its relatively poor performance encourages developers to take risky shortcuts. Even worse, padding oracle attacks remain rampant 20 years after Bleichenbacher's seminal paper. Folks, it's time to accept it - the only way to securely use RSA is to not use it at all. Ben Perez is a Security Engineer at Trail of Bits.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lElHzac8DDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Clinical Computer Security for Victims of Intimate Partner Violence
 Digital insecurity in the face of targeted, persistent attacks increasingly leaves victims in debilitating or even life-threatening situations. We propose an approach to helping victims, what we call clinical computer security, and explore it in the context of intimate partner violence (IPV). An initial field study with 44 IPV survivors showed how our new procedures and tools help victims discover account compromise, exploitable misconfigurations, and potential spyware. We further motivate the need for clinical approaches to computer security for at-risk communities. Sam Havron is a PHD student at Cornell Tech.
 
