@@ -9,6 +9,21 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## October 2019
+
+### Lightning Talks:
+* Dan Goetzel on the Cyber NYC Inventor to Founder Accelerator
+* Jessica Nelson on the NYC chapter of Women in Cybersecurity (WiCyS)
+* Rachel Cipkins (ToB) on replacing cookies with macaroons on PyPi
+
+### How to build the ultimate malvertising payload
+This presentation will be framed from the point of view of a malvertiser, or threat actor that is trying to leverage digital advertising in order to spread malware or conduct fraud. We focus on the iterative approach an attacker like this would take in order to optimize their client-side payload and tactics in order to maximize the success of their campaigns.
+Jerome Dangu, CTO and Co-founder, and Eliya Stein, Security Engineer at Confiant.
+
+### ZombieLoad: Cross-Privilege-Boundary Data Sampling
+Our analysis shows that faulting load instructions may transiently dereference unauthorized destinations previously brought into the fill buffer by the current or a sibling logical CPU. We discuss ZombieLoad’s effectiveness in a multitude of practical attack scenarios across CPU privilege rings, OS processes, virtual machines, and SGX enclaves. We mention both short and long-term mitigation approaches and arrive at the conclusion that disabling hyperthreading is the only possible workaround to prevent this extremely powerful attack on current processors.
+Daniel Moghimi is working toward a Doctorate at Worcester Polytechnic Institute (WPI).
+
 ## August 2019
 
 Empire Hacking hosted end-of-summer presentations from a group of interns:
