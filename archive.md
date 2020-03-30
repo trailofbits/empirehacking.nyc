@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## February 2019
+
+### A Day in the Life of an Engineering Intern
+During her fall internship Rachel worked on implementing macaroons into Warehouse, the codebase that powers PyPI. Macaroons are fast, flexible and secure alternatives to cookies. She also revisited the osquery support for insights about a system’s Google Chrome extensions by adding test cases, bug fixing, and enhancing related capability. Her talk will cover contributions to the deployment of macaroons on PyPI and support for Chrome extensions on osquery. Rachel Cipkins is an undergraduate student at Stevens Institute of Technology (B.S Computer Science 2022) and an engineering intern at Trail of Bits.
+
+### Encrypted Search: from Research to Real-World Systems
+The problem of designing end-to-end encrypted systems has driven the cryptography research community to study the problem of "searching on encrypted data" for about two decades. This sub-area of cryptography, known as Encrypted Search, has grown tremendously and several approaches have been proposed to encrypt databases, outsource them, and perform encrypted queries on them. In this talk, we will cover the state of the art in Encrypted Search. We will review different cryptographic primitives, their advantages, limitations, and readiness for real-world deployment. Evan Sultanik is a security engineer at Trail of Bits. Tarik Moataz is co-founder and CTO of Aroki Systems (https://aroki.com) and a visiting scientist at Brown University. His research includes major advances in encrypted search that have appeared at the top cryptography conferences, including IACR CRYPTO, Eurocrypt, Asiacrypt and Real-World Crypto.
+
 ## December 2019
 
 ### Real-Time Cryptocurrency Exchange Using Trusted Hardware:
