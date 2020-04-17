@@ -21,7 +21,7 @@ We will meet virtually for the foreseeable future. Check [Meetup](https://www.me
 
 ### When
 
-We meet on the 2nd Tuesday of every even month. Join via the Meet link at 6:00pm and talks begin at 6:15pm. Join our [Slack](https://empireslacking.herokuapp.com/) and add our [NYC Infosec calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York) so you're never caught by surprise.
+We meet on the 2nd Tuesday of every even month. Empire Hacking begins at 6:00pm and talks begin at 6:15pm. Join our [Slack](https://empireslacking.herokuapp.com/) and add our [NYC Infosec calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York) so you're never caught by surprise.
 
 ### What
 
