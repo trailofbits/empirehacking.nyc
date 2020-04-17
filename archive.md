@@ -9,7 +9,15 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
-## February 2019
+## April 2020
+
+### Enarx - Secured, Attested Execution on Any Cloud
+Enarx makes it simple to deploy confidential workloads to a variety of TEEs in the public cloud by handling deployment and attestation. Enarx is CPU-architecture independent and enables the same application code to be deployed across multiple targets, abstracting away issues such as cross-compilation and differing attestation mechanisms between the hardware vendors of available TEEs. Enarx uses WebAssembly to offer developers a wide range of compatible language choices for workloads, eliminating the need to rewrite the application for a particular TEE’s platform or SDK. Our work is currently underway on AMD’s SEV and Intel’s SGX hardware. The Enarx project is open source and looking to expand our community involvement. Lily Sturmann and Mark Bestavros are Security Engineers at Red Hat in Boston.
+
+### Computers and Humans Should break Things Together
+When it comes to finding deep vulnerabilities the best tool isn't AFL or OSS-Fuzz, it's a security engineer with too much free time. Where do our automated tools fall short? What can be done about it? Tonight, Carson is going to try and convince you that one solution is that computers and humans should break things together. Over the past year Trail of Bits has been doing research on how to make program analysis tools more human centric, which allows humans to help their tools dig deeper into programs and discover new classes of vulnerabilities. Bring your own beer, it's bug finding time. Carson Harmon is a Security Engineer at Trail of Bits.
+
+## February 2020
 
 ### A Day in the Life of an Engineering Intern
 During her fall internship Rachel worked on implementing macaroons into Warehouse, the codebase that powers PyPI. Macaroons are fast, flexible and secure alternatives to cookies. She also revisited the osquery support for insights about a system’s Google Chrome extensions by adding test cases, bug fixing, and enhancing related capability. Her talk will cover contributions to the deployment of macaroons on PyPI and support for Chrome extensions on osquery. Rachel Cipkins is an undergraduate student at Stevens Institute of Technology (B.S Computer Science 2022) and an engineering intern at Trail of Bits.
