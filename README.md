@@ -9,7 +9,7 @@ permalink: index.html
 
 On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense over drinks and light food.
 
-The next meetup will be on: **[Tuesday, April 14th](https://www.meetup.com/Empire-Hacking/events/268613547/)**
+The next meetup will be on: **[Tuesday, June 9th](https://www.meetup.com/Empire-Hacking/events/270068683/)**
 
 * Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/)
 * Join our [Slack](https://empireslacking.herokuapp.com) community
@@ -17,12 +17,12 @@ The next meetup will be on: **[Tuesday, April 14th](https://www.meetup.com/Empir
 
 ### Where
 
-Our location changes each meeting. Check [Meetup](https://www.meetup.com/Empire-Hacking/) for the latest available information. Have a great event space? Ask us about [hosting](/about/#host-a-meetup).
+We will meet via Google Hangouts for the foreseeable future. Check [Meetup](https://www.meetup.com/Empire-Hacking/) for the latest available information. Have a great space for future events? Ask us about [hosting](/about/#host-a-meetup).
 
 ### When
 
-We meet on the 2nd Tuesday of every even month. Doors open at 6 and talks begin at 6:30pm. Join our [Slack](https://empireslacking.herokuapp.com/) and add our [NYC Infosec calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York) so you're never caught by surprise.
+We meet on the 2nd Tuesday of every even month. Join via the Meet link at 6:00pm and talks begin at 6:15pm. Join our [Slack](https://empireslacking.herokuapp.com/) and add our [NYC Infosec calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York) so you're never caught by surprise.
 
 ### What
 
-Talks are short and focused and cover [pragmatic security research](/archive/). There are breaks so attendees can socialize over drinks and light food. After, we designate a nearby bar to continue the conversation.
+Talks are short and focused and cover [pragmatic security research](/archive/).
