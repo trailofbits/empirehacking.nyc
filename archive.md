@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## June 2020
+
+### Detecting transaction displacement attacks with Manticore
+In a transaction displacement attack, an attacker inserts their transaction ahead of a legitimate one, to steal rewards associated with the legitimate transaction. Transaction displacement attacks can be subtle, and designing a smart contract API that avoids them is not easy. This talk will describe recent work on a displacement attack detector for Manticore, Trail of Bits' symbolic execution tool. Sam Moelius is a security engineer at Trail of Bits.
+
+### Language-Based Reverse Engineering: a Vision for the Future
+Reverse engineering, vulnerability hunting, and exploit development all require a large amount of logical reasoning alongside application-specific (e.g., protocol) understanding. Program analyses should perform logical reasoning for us. But applying that logical reasoning alongside the application-specific reasoning is challenging in practice. This is because analysis tools (such as pointer analyses, etc..) often use complex models built on the idea that require expert understanding (such as abstract interpretation). Thus, such an approach requires expert security understanding, application-specific (e.g., protocol), and the ability to re-engineer analysis tools. In this talk, I will share a broad vision for language-based reverse engineering, a paradigm that uses language-based techniques to describe exploits in a way that allows leveraging these tools without building custom program analyses from the ground up. I will describe several concrete examples involving declarative programming and symbolic execution. Kristopher Micinski is an assistant professor at Syracuse University.
+
 ## April 2020
 
 ### Enarx - Secured, Attested Execution on Any Cloud
