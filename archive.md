@@ -9,6 +9,20 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## August 2020
+
+Empire Hacking hosted end-of-summer presentations from a group of Trail of Bits interns:
+
+Intern speakers included:
+* Ryan Eberhardt - Fuzzer parallelization with GPUs
+* Gabriela Lopez - Tracking fuzzing coverage with performance counters
+* Kevin Higgs - CodeQL analyses for C++ iterator invalidation issues
+* Sina Pilehchiha - ML-driven Solidity vulnerability discovery
+* Aaron Yoo - Context-free interactive analysis for Solidity
+* Suha Hussain - PrivacyRaven: Comprehensive Privacy Testing for Deep Learning
+* Mathias Hall-Andersen - Fast Zero-knowledge Proofs for Large Statements
+* Rachel Cipkins - osquery: using D-Bus to query systemd data
+
 ## June 2020
 
 ### Detecting transaction displacement attacks with Manticore
