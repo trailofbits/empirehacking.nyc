@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## October 2020
+
+### Who Is Running This Race? A look Into Anonymous Go Func Race Conditions
+Go makes it very easy to write concurrent code. However, as easy as it is to write concurrent applications in go, it can also be very easy to write race conditions bugs. A particularly interesting instance of such type of bugs involves anonymous function racing against the go scheduler. Join us in examining/dissecting this particular instance of race condition bugs. Johanna Ratliff and Alex Useche are security engineers at Trail of Bits, both working on the assurance team that reviews code from our clients.
+
+### CanDID: Can-Do Decentralized Identity with Legacy Compatibility, Sybil-Resistance, and Accountability
+CanDID is a platform for practical, user-friendly realization of decentralized identity, the idea of empowering end-users with management of their own credentials. While decentralized identity promises to give users greater control over their private data, it burdens users with management of private keys, creating a significant risk of key loss. Existing and proposed approaches also presume the spontaneous availability of a credential-issuance ecosystem, creating a bootstrapping problem. They also omit essential functionality, like resistance to Sybil attacks and the ability to detect misbehaving or sanctioned users while preserving user privacy. CanDID addresses these challenges by issuing credentials in a user-friendly way that draws securely and privately on data from existing, unmodified web service providers. Such legacy compatibility similarly enables CanDID users to use their existing online accounts for the recovery of lost keys. Using a decentralized committee of nodes, CanDID provides strong confidentiality for user's keys, real-world identities, and data, yet prevents users from spawning multiple identities and allows identification (and blacklisting) of sanctioned users. Fan Zhang recently received his Ph.D. in Computer Science from Cornell University. He will join the Department of Computer Science at Duke University as an Assistant Professor in 2021
+
 ## August 2020
 
 Empire Hacking hosted end-of-summer presentations from a group of Trail of Bits interns:
