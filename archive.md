@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
 
+## December 2020
+
+### How to use BPF directly in your application without external tools
+BPF is a powerful subsystem for realtime event monitoring in Linux but, in order to use it, you have to generate BPF bytecode instrumentation which traditionally requires external tools like BCC or clang. What if you want to dynamically decide what to monitor, and generate your own BPF bytecode? We'll show how you can easily support multiple Linux distributions and architectures using BPF, but directly in C++. Alessandro Gario is a senior security engineer at Trail of Bits, working in the Engineering team to implement security endpoint monitoring techniques and the open-source osquery project.
+
+### Semgrep: a lightweight static analysis tool for security consultant and hackers
+As a security consultant or security researcher, you need tools that work out of the box and provide value immediately. Static analysis tools often have a bad reputation: too slow, too many false positives, restrictive licensing, too hard to run or customize, etc. But that doesn't have to be the case. Semgrep is a lightweight, open-source static analysis tool that's fast, flexible, and trivial to install and run. Features include 1000+ open source security and code quality checks, does not require targeted code to be buildable, supports Python, Java, Golang, JavaScript, Typescript, Ruby, etc and you can write patterns that look like the code you're targeting. Join us for an overview of Semgrep, see how it compares to other tools in the space, and watch a live demo on how to write custom Semgrep rules to find security and correctness bugs. Clint Gibler (@clintgibler) is the Head of Security Research for r2c, a startup working on giving security tools directly to developers.
+
 ## October 2020
 
 ### Who is running this race? A look into anonymous Go func race conditions
