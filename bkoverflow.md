@@ -5,6 +5,8 @@ layout: default
 permalink: /bkoverflow/
 ---
 
+## Brooklyn Overflow social meetup
+
 We'll be hosting our first social event, Brooklyn Overflow, on Tuesday August 10th @ 6pm at DSK Brooklyn, our favorite German beer garden. Brooklyn Overflow is all casual, with no presentations and no agenda. Come out and meet your fellow hackers and friends! Be sure to [RSVP](https://www.meetup.com/Empire-Hacking/events/279719204/) and follow along on Twitter [@EmpireHacking](https://twitter.com/EmpireHacking).
 
 ### Where
@@ -29,7 +31,7 @@ An informal meetup of information security professionals in Brooklyn. Brooklyn O
 
 Consider it a reboot: Brooklyn Overflow was founded in 2004 as a CTF team at NYU Tandon. Dormant for more than 15 years, we're bringing it back to reignite Empire Hacking with a new Brooklyn background.
 
-### What is the precuations setup regarding COVID-19?
+### What, if any, COVID-19 precautions are in-place?
 
 Out of respect for other attendees and patrons of the venue, please attend only if you have been vaccinated. We'll also have a backpack full of rapid tests available, for free, for any attendee to use on-site or take home with them. Finally, the venue has a large outdoor space with excellent ventilation.
 
