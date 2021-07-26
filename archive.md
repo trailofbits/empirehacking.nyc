@@ -5,9 +5,9 @@ layout: default
 permalink: /archive/
 ---
 
-## Speak at a Meetup
+## Talk Archive
 
-You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup).
+You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to speak at a meetup.
 
 ## December 2020
 
