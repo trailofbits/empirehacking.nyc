@@ -38,3 +38,8 @@ Consider it a reboot: Brooklyn Overflow was founded in 2004 as a CTF team at NYU
 
 Out of respect for other attendees and patrons of the venue, please attend only if you have been vaccinated. We'll have a backpack full of rapid tests available, for free, for any attendee to use on-site or take home with them. The venue was in-part chosen for its large outdoor space.
 
+### Does this meetup have a code of conduct?
+
+Brooklyn Overflow is dedicated to providing a harassment-free meetup experience for everyone. We do not tolerate harassment of meetup participants in any form. Participants violating these rules may be removed from the meetup at the discretion of the organizers.
+
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. You can make a report to [Chelsea Peterson](mailto:chelsea.peterson@trailofbits.com) in-person at the event, via [Twitter DM](https://twitter.com/EmpireHacking), or anonymously via this [form](https://docs.google.com/forms/d/e/1FAIpQLScyZAo_QmsoKYSriClcmkXmzN9gOoqO2oapLWlVFIGHJEvYXA/viewform).
