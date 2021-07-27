@@ -36,5 +36,5 @@ Consider it a reboot: Brooklyn Overflow was founded in 2004 as a CTF team at NYU
 
 ### What, if any, COVID-19 precautions are in-place?
 
-Out of respect for other attendees and patrons of the venue, please attend only if you have been vaccinated. We'll also have a backpack full of rapid tests available, for free, for any attendee to use on-site or take home with them. The venue was partially chosen for its large outdoor space.
+Out of respect for other attendees and patrons of the venue, please attend only if you have been vaccinated. We'll have a backpack full of rapid tests available, for free, for any attendee to use on-site or take home with them. The venue was in-part chosen for its large outdoor space.
 
