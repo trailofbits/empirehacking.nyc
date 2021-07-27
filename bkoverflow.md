@@ -20,9 +20,11 @@ The next meetup will take place: [Tuesday August 10th @ 6pm](https://www.meetup.
 
 ### When
 
-* We meet once per month, with specific days announced on [Twitter](https://twitter.com/EmpireHacking) and [Meetup](https://www.meetup.com/Empire-Hacking/). There is no set schedule (yet)! The meetup starts at 6pm and ends when the venue closes or all the attendees leave.
+* We meet once per month with specific days announced on [Twitter](https://twitter.com/EmpireHacking) and [Meetup](https://www.meetup.com/Empire-Hacking/). There is no set schedule yet! The meetup starts at 6pm and ends when the venue closes or all the attendees leave.
 
 ## [Event Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York)
+
+Please subscribe to our calendar for updates about security events in NYC, including Empire Hacking, Brooklyn Overflow, and local conferences.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
