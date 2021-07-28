@@ -32,7 +32,7 @@ Please subscribe to [our calendar](https://calendar.google.com/calendar/embed?sr
 
 ### Where did the name come from?
 
-Consider it a reboot: Brooklyn Overflow was founded in 2004 as a CTF team at NYU Tandon. Dormant for more than 15 years, we're bringing it back to reignite Empire Hacking with a new Brooklyn background.
+Consider it a reboot: Brooklyn Overflow was founded in 2004 as a CTF team at NYU Tandon. Dormant for nearly 15 years, we're bringing it back to reignite Empire Hacking with a new Brooklyn background.
 
 ### What, if any, COVID-19 precautions are in-place?
 
