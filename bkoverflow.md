@@ -16,7 +16,7 @@ The next meetup will take place: [Tuesday August 10th @ 6pm](https://www.meetup.
 
 ### Where
 
-* [DSK Brooklyn](https://dsk-brooklyn.com/), our favorite German beer garden in Fort Greene
+* [DSK Brooklyn](https://dsk-brooklyn.com/), our favorite German beer garden in Fort Greene. [Easily accessible](https://g.page/DSKBrooklyn?share) via the 2, 3, 4, 5, B, D, N, Q, R, G, and C trains.
 
 ### When
 
