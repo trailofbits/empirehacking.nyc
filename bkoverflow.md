@@ -9,7 +9,7 @@ permalink: /bkoverflow/
 
 Brooklyn Overflow is a social event, without an agenda, for members to catch up with one another separate from Empire Hacking. Come out and meet your fellow hackers and friends!
 
-The next meetup will take place: [Tuesday August 10th @ 6pm](https://www.meetup.com/Empire-Hacking/events/279719204/) at DSK Brooklyn
+The next meetup will take place: [TBD](XXX) at DSK Brooklyn
 
 * Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 * Join our [Slack](https://empireslacking.herokuapp.com) community
