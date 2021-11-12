@@ -11,7 +11,7 @@ On the second Tuesday of every other month, information security professionals g
 
 The next meetup will be on: **Thursday, December 16th**
 
-* Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/)
+* Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/events/282047353/)
 * Join our [Slack](https://empireslacking.herokuapp.com) community
 * Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 
