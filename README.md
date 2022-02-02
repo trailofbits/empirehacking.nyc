@@ -9,7 +9,7 @@ permalink: index.html
 
 On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense over drinks and light food.
 
-The next meetup will be on: **[Tuesday, February 8th](https://www.meetup.com/Empire-Hacking/events/282790534/)**
+**Empire Hacking is currently on hiatus. We hope to pick up again in-person this summer!**
 
 * Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/)
 * Join our [Slack](https://empireslacking.herokuapp.com) community
@@ -17,7 +17,7 @@ The next meetup will be on: **[Tuesday, February 8th](https://www.meetup.com/Emp
 
 ### Where
 
-We are easing back into meeting in person and will be doing a mix of in-person and virtual events over the coming months. Our in-person events will take place at locations in Brooklyn. Check [Meetup](https://www.meetup.com/Empire-Hacking/) for the latest available information. Have a great space for future events? Ask us about [hosting](/about/#host-a-meetup).
+Once it is safe to meet again, our in-person events will take place at locations in lower Manhattan and Brooklyn. Check [Meetup](https://www.meetup.com/Empire-Hacking/) for the latest available information. Have a great space for future events? Ask us about [hosting](/about/#host-a-meetup).
 
 ### When
 
