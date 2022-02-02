@@ -9,7 +9,7 @@ permalink: index.html
 
 On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense over drinks and light food.
 
-**Please note that due to Covid, Empire Hacking is currently on hiatus. We hope to pick up again in person in the spring!**
+**Empire Hacking is currently on hiatus. We hope to pick up again in-person this summer!**
 
 * Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/)
 * Join our [Slack](https://empireslacking.herokuapp.com) community
@@ -21,7 +21,7 @@ Once it is safe to meet again, our in-person events will take place at locations
 
 ### When
 
-We typically meet on the 2nd Tuesday of every even month. Empire Hacking begins at 6:00pm and talks begin at 6:15pm. Join our [Slack](https://empireslacking.herokuapp.com/) and add our [NYC Infosec calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York) so you're never caught by surprise.
+We meet on the 2nd Tuesday of every even month. Empire Hacking begins at 6:00pm and talks begin at 6:15pm. Join our [Slack](https://empireslacking.herokuapp.com/) and add our [NYC Infosec calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York) so you're never caught by surprise.
 
 ### What
 
