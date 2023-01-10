@@ -9,7 +9,7 @@ permalink: /bkoverflow/
 
 Brooklyn Overflow is a social event, without an agenda, for members to catch up with one another separate from Empire Hacking. Come out and meet your fellow hackers and friends!
 
-The next meetup will take place: [TBD](XXX) at DSK Brooklyn
+The next meetup will take place: January 10, 2023 at DSK Brooklyn
 
 * Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 * Join our [Slack](https://empireslacking.herokuapp.com) community
@@ -20,7 +20,7 @@ The next meetup will take place: [TBD](XXX) at DSK Brooklyn
 
 ### When
 
-* We meet once per month with specific days announced on [Twitter](https://twitter.com/EmpireHacking) and [Meetup](https://www.meetup.com/Empire-Hacking/). There is no set schedule yet! The meetup starts at 6pm and ends when the venue closes or all the attendees leave.
+* We meet once per month with specific days announced on [Twitter](https://twitter.com/EmpireHacking) and [Meetup](https://www.meetup.com/Empire-Hacking/). The meetup starts at 6pm and ends when the venue closes or all the attendees leave.
 
 ## Event Calendar
 
@@ -42,4 +42,4 @@ Out of respect for other attendees and patrons of the venue, please attend only 
 
 Brooklyn Overflow is dedicated to providing a harassment-free meetup experience for everyone. We do not tolerate harassment of meetup participants in any form. Participants violating these rules may be removed from the meetup at the discretion of the organizers.
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. You can make a report to [Chelsea Peterson](mailto:chelsea.peterson@trailofbits.com) in-person at the event, via [Twitter DM](https://twitter.com/EmpireHacking), or anonymously via this [form](https://docs.google.com/forms/d/e/1FAIpQLScyZAo_QmsoKYSriClcmkXmzN9gOoqO2oapLWlVFIGHJEvYXA/viewform).
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible. Harassment and other code of conduct violations reduce the value of our event for everyone. You can make a report in-person at the event, via [Twitter DM](https://twitter.com/EmpireHacking), or anonymously via this [form](https://docs.google.com/forms/d/e/1FAIpQLScyZAo_QmsoKYSriClcmkXmzN9gOoqO2oapLWlVFIGHJEvYXA/viewform).
