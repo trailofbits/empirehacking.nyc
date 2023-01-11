@@ -9,7 +9,7 @@ permalink: /bkoverflow/
 
 Brooklyn Overflow is a social event, without an agenda, for members to catch up with one another separate from Empire Hacking. Come out and meet your fellow hackers and friends!
 
-The next meetup will take place: January 10, 2023 at DSK Brooklyn
+The next meetup will take place: March 2023 at DSK Brooklyn (Exact date TBD)
 
 * Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 * Join our [Slack](https://empireslacking.herokuapp.com) community
