@@ -9,6 +9,17 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to speak at a meetup.
 
+## February 2023 
+
+### Tool demo lightning talk:
+**BTIGhidra**: Trail of Bits Security Engineer Ian Smith helped develop a tool, BTIGhidra, that performs type inference on binaries statically. Ian will demo this tool, including examples on how it can improve reverse engineering workflows, and improves upon prior ad-hoc approaches to type inference on binaries.
+
+### Windows codesigning without Windows: Taming the root of trust
+The Microsoft Windows codesigning ("Authenticode") ecosystem is a dark and mysterious place: largely proprietary and undocumented, with sparingly few high-quality public references for doing Authenticode signature verification from scratch. William Woodruff, Trail of Bits' Engineering Director, will provide an in-depth review of Authenticode's internals, starting with Trail of Bits' own independent, open-source implementation (`uthenticode`). We'll then move into the outstanding challenge of full-chain signatures and introduce `windows-ctl`, a new set of Rust libraries and tools that bridge the gap by parsing and analyzing Windows' proprietary Certificate Trust Lists format. 
+
+### The fun bugs that surface in MPC and threshold signatures
+Multi-party computation (MPC) and threshold cryptography are powerful protocols increasingly adopted in the key management space. Their ability to split cryptographic keys into multiple parts and physical locations is a killer feature for systems that prioritize decentralization and the removal of a single point of failure. However, these protocols are complex and come with tremendous risks, making it easy to introduce implementation errors that can have catastrophic consequences. Jim Miller, Engineering Director at Trail of Bits, will touch on high-level concepts, the problems they solve, and an overview of attacks against these systems.
+
 ## December 2020
 
 ### How to use BPF directly in your application without external tools
