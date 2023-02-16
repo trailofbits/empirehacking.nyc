@@ -11,7 +11,7 @@ You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to s
 
 ## February 2023 
 
-### Tool demo lightning talk:
+### Tool demo lightning talk
 Trail of Bits Security Engineer Ian Smith helped develop a tool, BTIGhidra, that performs type inference on binaries statically. Ian will demo this tool, including examples on how it can improve reverse engineering workflows, and improves upon prior ad-hoc approaches to type inference on binaries.
 
 ### Windows codesigning without Windows: Taming the root of trust
