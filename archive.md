@@ -12,7 +12,7 @@ You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to s
 ## February 2023 
 
 ### Tool demo lightning talk:
-**BTIGhidra**: Trail of Bits Security Engineer Ian Smith helped develop a tool, BTIGhidra, that performs type inference on binaries statically. Ian will demo this tool, including examples on how it can improve reverse engineering workflows, and improves upon prior ad-hoc approaches to type inference on binaries.
+Trail of Bits Security Engineer Ian Smith helped develop a tool, BTIGhidra, that performs type inference on binaries statically. Ian will demo this tool, including examples on how it can improve reverse engineering workflows, and improves upon prior ad-hoc approaches to type inference on binaries.
 
 ### Windows codesigning without Windows: Taming the root of trust
 The Microsoft Windows codesigning ("Authenticode") ecosystem is a dark and mysterious place: largely proprietary and undocumented, with sparingly few high-quality public references for doing Authenticode signature verification from scratch. William Woodruff, Trail of Bits' Engineering Director, will provide an in-depth review of Authenticode's internals, starting with Trail of Bits' own independent, open-source implementation (`uthenticode`). We'll then move into the outstanding challenge of full-chain signatures and introduce `windows-ctl`, a new set of Rust libraries and tools that bridge the gap by parsing and analyzing Windows' proprietary Certificate Trust Lists format. 
