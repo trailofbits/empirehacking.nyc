@@ -11,14 +11,22 @@ You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to s
 
 ## February 2023 
 
-### Tool demo lightning talk
-Trail of Bits Security Engineer Ian Smith helped develop a tool, BTIGhidra, that performs type inference on binaries statically. Ian will demo this tool, including examples on how it can improve reverse engineering workflows, and improves upon prior ad-hoc approaches to type inference on binaries.
+### Type inference in Ghidra with BTIGhidra
+Trail of Bits Security Engineer Ian Smith helped develop a tool, BTIGhidra, that performs type inference on binaries statically. Ian demoed this tool, including examples on how it can improve reverse engineering workflows, and improves upon prior ad-hoc approaches to type inference on binaries.
 
 ### Windows codesigning without Windows: Taming the root of trust
 The Microsoft Windows codesigning ("Authenticode") ecosystem is a dark and mysterious place: largely proprietary and undocumented, with sparingly few high-quality public references for doing Authenticode signature verification from scratch. William Woodruff, Trail of Bits' Engineering Director, will provide an in-depth review of Authenticode's internals, starting with Trail of Bits' own independent, open-source implementation (`uthenticode`). We'll then move into the outstanding challenge of full-chain signatures and introduce `windows-ctl`, a new set of Rust libraries and tools that bridge the gap by parsing and analyzing Windows' proprietary Certificate Trust Lists format. 
 
 ### The fun bugs that surface in MPC and threshold signatures
 Multi-party computation (MPC) and threshold cryptography are powerful protocols increasingly adopted in the key management space. Their ability to split cryptographic keys into multiple parts and physical locations is a killer feature for systems that prioritize decentralization and the removal of a single point of failure. However, these protocols are complex and come with tremendous risks, making it easy to introduce implementation errors that can have catastrophic consequences. Jim Miller, Engineering Director at Trail of Bits, will touch on high-level concepts, the problems they solve, and an overview of attacks against these systems.
+
+## February 2020
+
+### Day in the Life of an Engineering Intern by Rachel Cipkins
+During her fall internship Rachel worked on implementing macaroons into Warehouse, the codebase that powers PyPI. Macaroons are fast, flexible and secure alternatives to cookies. She also revisited the osquery support for insights about a system’s Google Chrome extensions by adding test cases, bug fixing, and enhancing related capability. Her talk will cover contributions to the deployment of macaroons on PyPI and support for Chrome extensions on osquery. Rachel Cipkins is an undergraduate student at Stevens Institute of Technology (B.S Computer Science 2022) and an engineering intern at Trail of Bits.
+
+### Encrypted Search: from Research to Real-World Systems by Tarik Moataz
+The problem of designing end-to-end encrypted systems has driven the cryptography research community to study the problem of "searching on encrypted data" for about two decades. This sub-area of cryptography, known as Encrypted Search, has grown tremendously and several approaches have been proposed to encrypt databases, outsource them, and perform encrypted queries on them. In this talk, we will cover the state of the art in Encrypted Search. We will review different cryptographic primitives, their advantages, limitations, and readiness for real-world deployment Tarik Moataz is co-founder and CTO of Aroki Systems (https://aroki.com) and a visiting scientist at Brown University. His research includes major advances in encrypted search that have appeared at the top cryptography conferences, including IACR CRYPTO, Eurocrypt, Asiacrypt and Real-World Crypto.
 
 ## December 2020
 
