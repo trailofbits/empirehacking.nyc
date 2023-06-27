@@ -12,7 +12,7 @@ On the second Tuesday of every other month, information security professionals g
 **Empire Hacking has resumed! Check our calendar for an updated event schedule!**
 
 * Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/)
-* Join our [Slack](https://empireslacking.herokuapp.com) community
+* Join our [Slack](https://slack.empirehacking.nyc) community
 * Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 
 ### Where
