@@ -43,7 +43,7 @@ Ideal hosts have:
 
 ### Join us on Slack
 
-We created a Slack organization for our members. That’s where we discuss meetups, the latest security news, and our open-source projects. Everyone is welcome. Join through our [auto-inviter](https://empireslacking.herokuapp.com).
+We created a Slack organization for our members. That’s where we discuss meetups, the latest security news, and our open-source projects. Everyone is welcome. Join through our [auto-inviter](https://slack.empirehacking.nyc).
 
 ## Frequently Asked Questions
 

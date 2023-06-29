@@ -12,7 +12,7 @@ Brooklyn Overflow is a social event, without an agenda, for members to catch up 
 The next meetup will take place: Tuesday March 14, 2023 
 
 * Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
-* Join our [Slack](https://empireslacking.herokuapp.com) community
+* Join our [Slack](https://slack.empirehacking.nyc) community
 
 ### Where
 
