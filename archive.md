@@ -11,15 +11,14 @@ You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to s
 
 ## Oct 2023
 
-### How to prevent malware from steal your Chrome cookies on macOS - Nick Frost (Security Engineer, Figma)
-If you had a shell on someone's MacBook, could you read their Chrome cookies? This talk will survey a broad set of techniques that will do just that. Then, I'll share my experience using open source tools like Santa and osquery to prevent and detect these attacks on macOS. Finally, we'll take a look at upcoming changes to macOS, and what they could mean for Chrome.
+### How to prevent malware from steal your Chrome cookies on macOS
+If you had a shell on someone's MacBook, could you read their Chrome cookies? This talk will survey a broad set of techniques that will do just that. Then, I'll share my experience using open-source tools like Santa and osquery to prevent and detect these attacks on macOS. Finally, we'll take a look at upcoming changes to macOS, and what they could mean for Chrome. Nick Frost is a security engineer at Figma.
 
-### Packaging with Nix: Impossible is just very hard (and so is everything else) - Jack Leightcap (Trail of Bits, Security Engineer)
-Using a ToB R&E project as a running example, Jack will walk through the highs and lows that come with using Nix to architect a build system.
+### Packaging with Nix
+Using a Trail of Bits R&E project as a running example, Jack will walk through the highs and lows that come with using Nix to architect a build system. Jack Leightcap is a security engineer at Trail of Bits.
 
-
-### WeAudit - Collaborative code review in VSCode
-Jim Miller gives a preview of a soon to be open sourced vscode extension called WeAudit by Trail of Bits.
+### Collaborative code review in VSCode
+Jim Miller gives a preview of a soon-to-be open-source VS Code extension called WeAudit by Trail of Bits.
 
 ## Aug 2023 - Intern Showcase
 
@@ -34,18 +33,18 @@ Empire Hacking hosted end-of-summer presentations from a group of Trail of Bits 
 * A Dive Into GDB (Matheus Branco Borella)
 * Fuzzing ETW Consumers (Michael Lin)
 
-## April 2023 - Lightning Demos
+## April 2023
 
 ### "The Golden Mean in the Shift Left vs. Shift Right Debate in App Sec"
 Mikhail Chechik, a Security Engineer (App Security) at Spotify, will share context on this debate, talk about Spotify’s App Sec tooling, and share how Security Hub stitches it all together for a great user experience in Backstage.
 
 ### Medusa
-Trail of Bits Security Engineer Anish Naik is a core contributor and will demo a new tool.
+Trail of Bits Security Engineer Anish Naik is a core contributor and will demo Medusa, a new smart contract fuzzer for Ethereum written in Go.
 
-### Network Flight Simulator (flightsim) - Chris McNab
+### Network Flight Simulator (flightsim)
 Chris McNab, co-founder of AlphaSOC, will present Network Flight Simulator, a free, open-source adversary simulation tool. Security teams can use the flightsim utility to synthesize malicious network traffic patterns (e.g., C2 beacons, cryptomining, and DNS tunneling) and evaluate their SIEM / SOAR coverage. Chris will demonstrate the software at Empire Hacking to help foster project contribution and adoption within the industry.
 
-### DarkSea: A Toolchain for Automatic Verification of Lifted Binaries - Cyrus Liu
+### DarkSea: A Toolchain for Automatic Verification of Lifted Binaries
 Cyrus Liu, a research scholar at CYPRESS Lab in Stevens Institute of Technology, will give a brief introduction of formal verification, and summarize challenges in existing tools when applying them to binary analysis. He’ll introduce our proposed techniques (i.e. bitwise branching) for bitwise reasoning in the lifted binary code. He’ll share a detailed implementation of the DarkSea tool, and demonstrate that the bitwise branching strategies can mitigate bit-vector reasoning in the lifted binaries. Then he’ll show that the DarkSea tool can be used as a modular framework for binary verification and a short demo to showcase DarkSea running on a lifted binary.
 
 
