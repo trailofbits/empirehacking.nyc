@@ -9,6 +9,14 @@ permalink: /archive/
 
 You could be listed here! [Submit your talk now](/about/#speak-at-a-meetup) to speak at a meetup.
 
+## Dec 2023
+
+### Japanese Feature Phones: Challenges in Preservation and Methodologies in Reverse Engineering
+Japanese mobile devices from the early 00's were highly technologically advanced for their time. The main challenges in reverse engineering these phones are their use of proprietary chips, the lack of documentation on these chips, and the variety of phone models that require different approaches. Additionally, data saved on external storage is encrypted with a cryptomeria cipher. Currently, a group of volunteer programmers have united online to reserve engineer and preserve these phones. Techniques used include desoldering NAND chips for use with a chip reader, software exploits through browser and flash, and Python scripts executed through a debug cable. These techniques have offered various levels of success, but there is still more work to be done. Ellen Cooper, Hack Manhattan.
+
+### In Pursuit of Silent Flaws: Dataflow Analysis for Bugfinding and Triage
+Dr. Sultanik will provide a thorough exploration of how dataflow analysis serves as a formidable method for discovering and addressing cybersecurity threats across a wide spectrum of vulnerability types. For instance: how we can employ dynamic information flow tracking to automatically detect “blind spots”—sections of a program’s input that can be changed without influencing its output. These blind spots are almost always indicative of an underlying bug. He will demonstrate how the use of hybrid control- and dataflow information in differential analysis can aid in uncovering variability bugs, commonly known as “heisenbugs.” By delving into these practical applications of dataflow analysis and introducing open-source tools designed to implement these strategies, the goal is to present practical steps for pinpointing, debugging, and managing a diverse array of software bugs.  Dr. Evan Sultanik, Trail of Bits
+
 ## Oct 2023
 
 ### How to prevent malware from steal your Chrome cookies on macOS
