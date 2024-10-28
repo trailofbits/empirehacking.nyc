@@ -9,11 +9,11 @@ permalink: index.html
 
 On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense over drinks and light food.
 
-**Empire Hacking has resumed! Check our calendar for an updated event schedule!**
+**Follow us on Twitter for our most updated scheduling**
 
+* Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 * Want in? Apply on our [Meetup](https://www.meetup.com/Empire-Hacking/)
 * Join our [Slack](https://slack.empirehacking.nyc) community
-* Follow [@EmpireHacking](https://twitter.com/EmpireHacking) on Twitter
 
 ### Where
 
