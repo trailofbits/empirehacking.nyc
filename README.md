@@ -7,7 +7,9 @@ permalink: index.html
 
 ## At a Glance
 
-On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense over drinks and light food.
+Empire Hacking is on hiatus for 2025! Trail of Bits is planning a series of longer-form events with partners in NYC that will be announced soon. If you're interested in attendig a meetup, please consider the [NYC Systems Engineering Meetup](https://nycsystems.xyz/) conveniently hosted by Trail of Bits.
+
+ON HIATUS: On the second Tuesday of every other month, information security professionals gather to discuss pragmatic security research and new discoveries in attack and defense over drinks and light food.
 
 **Follow us on Twitter for our most updated scheduling**
 
